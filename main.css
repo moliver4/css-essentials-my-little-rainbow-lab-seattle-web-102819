@@ -1,7 +1,7 @@
 #red {
   border: 20px solid #f00;
   display: inline-block; /* a way of positioning elements */
-  min-width: 20em; /* the two min styles make the shape */
+  min-width: 50em; /* the two min styles make the shape */
   min-height: 25em; /* of the divs oblong*/
   border-radius: 50%; /* this makes the normally square div round */
   border-left-color: transparent; /* these remove the color from the left side */
