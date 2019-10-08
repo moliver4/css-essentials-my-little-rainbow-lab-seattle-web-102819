@@ -1,6 +1,6 @@
 #red {
   border: 20px solid #f00;
-  display: inline-block; /* a way of positioning elements */
+  display: block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
   min-height: 20em; /* of the divs oblong*/
   border-radius: 50%;
