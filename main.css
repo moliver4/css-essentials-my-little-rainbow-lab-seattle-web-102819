@@ -6,7 +6,7 @@
   border-radius: 50%;
   border-left-color: transparent; /* these remove the color from the left side */
   border-right-color: transparent; /* the right side */
-  border-bottom-color: red; /* and the bottom of the circle */
+  border-bottom-color: transparent; /* and the bottom of the circle */
 }
 #orange {
   border: 20px solid #ffa500;
